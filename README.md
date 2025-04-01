@@ -1,7 +1,7 @@
 # Tundra-ML
 
 
-[GetGLAD](https://github.com/Stasyadlb/Get_Glad/) - скачивание данных Landsat GLAD
+[GetGLAD](https://github.com/Stasyadlb/Get_Glad/) - скачивание данных Landsat GLAD (private)
 
 [clip_rasters.py](https://github.com/Stasyadlb/Tundra-ML/blob/main/clip_rasters.py) - нарезка растра по shape-файлу
 
